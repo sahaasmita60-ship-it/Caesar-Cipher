@@ -21,8 +21,7 @@ This project lets users enter a message and choose whether to **encode** or **de
 - Ignores any characters that are not in the alphabet (e.g., spaces, punctuation).  
 
 ## How to Use
-
-1. Clone the repository:
+Clone or run the repository:
 
 ```bash
 git clone https://github.com/sahaasmita60-ship-it/Caesar-Cipher.git
